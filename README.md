@@ -4,7 +4,7 @@ Welcome to my CS50x 2025 journey! 🚀 This repository serves as a documentation
 
 ## 🏆 About CS50x
 CS50x is Harvard University's Introduction to Computer Science, covering:
-- Programming in C, Python,javascript and SQL
+- Programming in C, Python and SQL
 - Algorithms and data structures
 - Cybersecurity fundamentals
 - Web development basics
