@@ -8,4 +8,9 @@ int main(void)
         printf("Meow\n");
         i--;
     }
+
+    for (int i = 0 ; i < 3; i++)
+    {
+        printf("meawing...\n");
+    }
 }
