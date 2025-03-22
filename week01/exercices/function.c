@@ -1,15 +1,15 @@
 #include <stdio.h>
 
-void meow(void);
+void meow(int n);
 
 int main(void)
 {
-    meow();
+    meow(4);
 }
 
-void meow(void)
+void meow(int n)
 {
-    for (int i = 0 ; i < 3 ; i++)
+    for (int i = 0 ; i < n ; i++)
     {
         printf("Meow\n");
     }
