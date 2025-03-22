@@ -25,7 +25,7 @@ CS50x is Harvard University's Introduction to Computer Science, covering:
 ## ✅ My Progress
 | Week  | Topic                          | Status  |
 |-------|--------------------------------|---------|
-| 0     | Scratch                        | 🚧 Incomplete |
+| 0     | Scratch                        | ✅ complete |
 | 1     | C                              | 🚧 Incomplete |
 | 2     | Arrays                         | 🚧 Incomplete |
 | 3     | Algorithms                     | 🚧 Incomplete |
