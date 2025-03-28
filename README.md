@@ -26,7 +26,7 @@ CS50x is Harvard University's Introduction to Computer Science, covering:
 | Week  | Topic                          | Status  |
 |-------|--------------------------------|---------|
 | 0     | Scratch                        | ✅ complete |
-| 1     | C                              | 🚧 Incomplete |
+| 1     | C                              | ✅ complete |
 | 2     | Arrays                         | 🚧 Incomplete |
 | 3     | Algorithms                     | 🚧 Incomplete |
 | 4     | Memory                         | 🚧 Incomplete |
@@ -52,12 +52,5 @@ By the end of CS50x, I will have experience with:
 - Web development with Flask
 - Cybersecurity fundamentals
 - Problem-solving and algorithmic thinking
-
-## 📬 Contact
-I'm always open to networking and discussing tech! Feel free to reach out:
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your LinkedIn profile]
-- 🐙 GitHub: [your GitHub profile]
-
 ---
 🔹 *"Learning never exhausts the mind."* – Leonardo da Vinci 🔹
